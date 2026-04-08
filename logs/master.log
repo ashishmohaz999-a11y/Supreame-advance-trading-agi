@@ -1,0 +1,5 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/workspaces/Supreame-advance-trading-agi/main.py", line 17, in <module>
+    from trading_system.telegram_alerts import (
+ModuleNotFoundError: No module named 'trading_system.telegram_alerts'

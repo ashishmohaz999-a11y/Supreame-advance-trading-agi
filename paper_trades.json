@@ -1,0 +1,43 @@
+{
+  "capital": 100160.0,
+  "peak_capital": 100160.0,
+  "trades": [
+    {
+      "type": "BUY",
+      "symbol": "RELIANCE",
+      "price": 2850.0,
+      "quantity": 8,
+      "cost": 22800.0,
+      "stop_loss": 2793.0,
+      "target": 2964.0,
+      "time": "2026-04-08T11:24:41.031810"
+    },
+    {
+      "type": "BUY",
+      "symbol": "TCS",
+      "price": 3500.0,
+      "quantity": 5,
+      "cost": 17500.0,
+      "stop_loss": 3430.0,
+      "target": 3640.0,
+      "time": "2026-04-08T11:24:41.032232"
+    },
+    {
+      "type": "SELL",
+      "symbol": "RELIANCE",
+      "price": 2920.0,
+      "quantity": 8,
+      "pnl": 560.0,
+      "time": "2026-04-08T11:24:41.032547"
+    },
+    {
+      "type": "SELL",
+      "symbol": "TCS",
+      "price": 3420.0,
+      "quantity": 5,
+      "pnl": -400.0,
+      "time": "2026-04-08T11:24:41.032844"
+    }
+  ],
+  "open_positions": {}
+}
