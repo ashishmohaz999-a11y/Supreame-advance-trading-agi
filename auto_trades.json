@@ -1,0 +1,60 @@
+{
+  "capital": 50024.12000000001,
+  "peak_capital": 100000,
+  "open_positions": {
+    "ABINFRA": {
+      "buy_price": 16.2,
+      "quantity": 617,
+      "target": 17,
+      "stop_loss": 15.71,
+      "expected_pnl": 454.83,
+      "charges": 38.77,
+      "buy_time": "2026-04-10T10:07:42.360977",
+      "yf_symbol": "ABINFRA.NS"
+    },
+    "A2ZINFRA": {
+      "buy_price": 17.21,
+      "quantity": 581,
+      "target": 18,
+      "stop_loss": 16.69,
+      "expected_pnl": 420.25,
+      "charges": 38.74,
+      "buy_time": "2026-04-10T10:07:43.447690",
+      "yf_symbol": "A2ZINFRA.NS"
+    },
+    "AIRAN": {
+      "buy_price": 17.53,
+      "quantity": 570,
+      "target": 18,
+      "stop_loss": 17.0,
+      "expected_pnl": 229.37,
+      "charges": 38.53,
+      "buy_time": "2026-04-10T10:07:44.517691",
+      "yf_symbol": "AIRAN.NS"
+    },
+    "AEROENTER": {
+      "buy_price": 84.67,
+      "quantity": 118,
+      "target": 86,
+      "stop_loss": 82.13,
+      "expected_pnl": 118.53,
+      "charges": 38.41,
+      "buy_time": "2026-04-10T10:07:45.545259",
+      "yf_symbol": "AEROENTER.NS"
+    },
+    "ADROITINFO": {
+      "buy_price": 9.87,
+      "quantity": 1013,
+      "target": 10,
+      "stop_loss": 9.57,
+      "expected_pnl": 93.29,
+      "charges": 38.4,
+      "buy_time": "2026-04-10T10:07:46.574158",
+      "yf_symbol": "ADROITINFO.NS"
+    }
+  },
+  "closed_trades": [],
+  "total_charges": 0,
+  "total_gross": 0,
+  "total_net": 0
+}
